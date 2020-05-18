@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "hello world new 2"
+echo "hello world new $NAME"
 

@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "hello world new $Name latest"
+echo "hello world new $Name last"
 
